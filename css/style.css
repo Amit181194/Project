@@ -1,27 +1,27 @@
 /* fonts  */
 @font-face {
-    font-family:"Raleway-regular";
-    src:url(../fonts/Raleway-Regular.ttf)
+    font-family:"Times New Roman";
+    src:url(../fonts/Times New Roman.ttf)
 }
 @font-face {
-    font-family:"Raleway-medium";
-    src:url(../fonts/Raleway-Medium.ttf)
+    font-family:"Times New Roman-medium";
+    src:url(../fonts/Times New Roman-Medium.ttf)
 }
 @font-face {
-    font-family:"Raleway-bold";
-    src:url(../fonts/Raleway-Bold.ttf)
+    font-family:"Times New Roman-bold";
+    src:url(../fonts/Times New Roman-Bold.ttf)
 }
 @font-face {
-    font-family:"Raleway-extrabold";
-    src:url(../fonts/Raleway-ExtraBold.ttf)
+    font-family:"Times New Roman-extrabold";
+    src:url(../fonts/Times New Roman-ExtraBold.ttf)
 }
 @font-face {
-    font-family:"Raleway-semibold";
-    src:url(../fonts/Raleway-SemiBold.ttf)
+    font-family:"Times New Roman-semibold";
+    src:url(../fonts/Times New Roman-SemiBold.ttf)
 }
 @font-face {
-    font-family:"Raleway-black";
-    src:url(../fonts/Raleway-Black.ttf)
+    font-family:"Times New Roman-black";
+    src:url(../fonts/Times New Roman-Black.ttf)
 }
 
 
